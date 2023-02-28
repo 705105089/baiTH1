@@ -4,8 +4,18 @@ void sap_xep_day_so (int* a, int n)
 {
 	//ma lenh
 }
+
+int tim_max(int* a, int n)
+{
+	//ma lenh
+}
+
+int tim_min(int* a, int n)
+{
+	//ma lenh
+}
 int main()
 {
-	cout << "Phien ban dau tien";
+	cout << "Phien ban my_function";
 	return 0;
 }
